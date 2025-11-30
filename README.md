@@ -2,7 +2,7 @@
 
 # Moirangthem Joel Singh
 
-👋 Hi — I'm **Joel Moirangthem**, a Computer Science Engineering student building useful tools, learning systems design, and exploring AI & web development. I love turning ideas into working software and learning by shipping projects.
+👋 Hi — I'm **Moirangthem Joel Singh**, a Computer Science Engineering student building useful tools, learning systems design, and exploring AI & web development. I love turning ideas into working software and learning by shipping projects.
 
 ---
 

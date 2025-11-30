@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0b1220"/>
+  <polygon points="16,12 48,12 56,32 48,52 16,52 8,32" fill="#6DA55F"/>
+  <text x="32" y="36" text-anchor="middle" font-family="Arial" font-weight="bold" fill="white">Node</text>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="2.6s" repeatCount="indefinite"/>
+</svg>

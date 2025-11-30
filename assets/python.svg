@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <rect width="64" height="64" rx="12" fill="#0b1220"/>
+  <defs>
+    <linearGradient id="pgrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FFD43B"/>
+      <stop offset="100%" stop-color="#3776AB"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8,8)">
+    <rect width="48" height="48" rx="12" fill="url(#pgrad)">
+      <animate attributeName="opacity" values="1;0.85;1" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="24" y="31" fill="white" font-size="18" font-family="Arial" font-weight="bold" text-anchor="middle">Py</text>
+  </g>
+</svg>

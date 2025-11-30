@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0b1220"/>
+  <ellipse cx="32" cy="18" rx="18" ry="7" fill="#00618A"/>
+  <path d="M14 18v18c0 7 18 12 18 12s18-5 18-12V18" fill="#E8F6FB">
+    <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <text x="32" y="52" fill="#fff" text-anchor="middle" font-size="10" font-weight="bold">MySQL</text>
+</svg>

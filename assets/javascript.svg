@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0b1220"/>
+  <rect x="8" y="8" width="48" height="48" rx="10" fill="#F7DF1E"/>
+  <text x="32" y="38" font-family="Arial" font-size="22" font-weight="900" text-anchor="middle" fill="#000">JS</text>
+  <animateTransform attributeName="transform" type="rotate" values="-4 32 32;4 32 32;-4 32 32" dur="3s" repeatCount="indefinite"/>
+</svg>

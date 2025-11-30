@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0b1220"/>
+  <g transform="translate(8,8)">
+    <rect width="48" height="48" rx="12" fill="#E34F26"/>
+    <text x="24" y="32" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="white">Java</text>
+    <animate attributeName="opacity" values="1;0.75;1" dur="2.8s" repeatCount="indefinite"/>
+  </g>
+</svg>

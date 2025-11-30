@@ -12,8 +12,6 @@ I enjoy experimenting with code, learning new technologies, and slowly shaping m
 ---
 
 ## 🔧 Tech Stack (Grid — animated icons)
-> Hover icons in browsers to see subtle animations. Place these SVGs in `/assets/` for best results.
-
 | ![python](assets/python.svg) <br/> **Python** | ![javascript](assets/javascript.svg) <br/> **JavaScript** | ![java](assets/java.svg) <br/> **Java** | ![react](assets/react.svg) <br/> **React.js** |
 |---:|:---:|:---:|:---:|
 | ![nextjs](assets/nextjs.svg) <br/> **Next.js** | ![nodejs](assets/nodejs.svg) <br/> **Node.js** | ![express](assets/express.svg) <br/> **Express.js** | ![mysql](assets/mysql.svg) <br/> **MySQL** |
@@ -22,12 +20,7 @@ I enjoy experimenting with code, learning new technologies, and slowly shaping m
 
 ---
 
-## 📂 Projects (short)
-- **Portfolio Website** — personal portfolio & project gallery · *Next.js, React.js*  
-- **Student Management System** — college project for records · *Java, MySQL*  
-- **Data Analysis Toolkit** — dataset processing & visualization · *Python, Pandas, Matplotlib*  
 
----
 
 ## 🎓 Education
 - **B.Tech** — Computer Science Engineering
@@ -35,9 +28,9 @@ I enjoy experimenting with code, learning new technologies, and slowly shaping m
 ---
 
 ## 📈 GitHub & Stats
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelMoirangthem&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
 ![Streak stats](https://nirzak-streak-stats.vercel.app/?user=JoelMoirangthem&theme=dark&hide_border=false)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelMoirangthem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 
@@ -46,16 +39,6 @@ I enjoy experimenting with code, learning new technologies, and slowly shaping m
 
 ---
 
-## ✉️ Contact
-- Email: joelmoirangthem1@gmail.com  
-- Phone: 9863096861  
-- LinkedIn: https://www.linkedin.com/in/joel-moirangthem-494119315/  
-- GitHub: https://github.com/JoelMoirangthem
 
----
 
-## ⚙️ Repo setup notes
-- Place all SVG files in `assets/` at repo root.
-- Use the README as-is — GitHub will fetch `/assets/*.svg` when rendering images.
-- If an animated SVG appears static in some GitHub views, open the repo in a browser or check `preview.html` locally to verify animations.
 

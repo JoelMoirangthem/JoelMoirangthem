@@ -1,15 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
-  <rect width="64" height="64" rx="12" fill="#0b1220"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="256" height="256">
   <defs>
-    <linearGradient id="pgrad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#FFD43B"/>
-      <stop offset="100%" stop-color="#3776AB"/>
+    <linearGradient id="pgrad-3d" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FFD700">
+        <animate attributeName="stop-color" values="#FFD700; #FFC200; #FFD700" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#007BFF">
+        <animate attributeName="stop-color" values="#007BFF; #0056b3; #007BFF" dur="3s" repeatCount="indefinite" />
+      </stop>
     </linearGradient>
+
+    <filter id="metallic-frame">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2" result="blur"/>
+      <feOffset in="blur" dx="2" dy="2" result="offsetBlur"/>
+      <feSpecularLighting in="blur" surfaceScale="5" specularConstant="1" specularExponent="20" lighting-color="#ffffff" result="specularOut">
+        <fePointLight x="-500" y="-500" z="200"/>
+      </feSpecularLighting>
+      <feComposite in="specularOut" in2="SourceAlpha" operator="in" result="specularComposite"/>
+      <feComposite in="SourceGraphic" in2="specularComposite" operator="arithmetic" k1="0" k2="1" k3="1" k4="0" result="litPaint"/>
+      <feMerge>
+        <feMergeNode in="offsetBlur"/>
+        <feMergeNode in="litPaint"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowing-block">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="glow" />
+      <feBlend in="SourceGraphic" in2="glow" mode="normal" />
+    </filter>
   </defs>
-  <g transform="translate(8,8)">
-    <rect width="48" height="48" rx="12" fill="url(#pgrad)">
-      <animate attributeName="opacity" values="1;0.85;1" dur="2.4s" repeatCount="indefinite"/>
+
+  <rect x="4" y="4" width="120" height="120" rx="24" fill="#1a2332" filter="url(#metallic-frame)"/>
+
+  <g transform="translate(24, 24)">
+    <rect width="80" height="80" rx="18" fill="url(#pgrad-3d)" filter="url(#glowing-block)">
+      <animate attributeName="opacity" values="1;0.8;1" dur="2.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 40 40" to="360 40 40" dur="10s" repeatCount="indefinite" additive="sum"/>
     </rect>
-    <text x="24" y="31" fill="white" font-size="18" font-family="Arial" font-weight="bold" text-anchor="middle">Py</text>
+    
+    <text x="40" y="52" fill="white" font-size="32" font-family="Arial, sans-serif" font-weight="bold" text-anchor="middle" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+      Py
+    </text>
   </g>
 </svg>

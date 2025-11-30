@@ -11,7 +11,7 @@ I enjoy experimenting with code, learning new technologies, and slowly shaping m
 
 ---
 
-## 🔧 Tech Stack (Grid — animated icons)
+## 🔧 Tech Stack 
 | ![python](assets/python.svg) <br/> **Python** | ![javascript](assets/javascript.svg) <br/> **JavaScript** | ![java](assets/java.svg) <br/> **Java** | ![react](assets/react.svg) <br/> **React.js** |
 |---:|:---:|:---:|:---:|
 | ![nextjs](assets/nextjs.svg) <br/> **Next.js** | ![nodejs](assets/nodejs.svg) <br/> **Node.js** | ![express](assets/express.svg) <br/> **Express.js** | ![mysql](assets/mysql.svg) <br/> **MySQL** |

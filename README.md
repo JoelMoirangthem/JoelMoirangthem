@@ -30,24 +30,11 @@ I am currently pursuing a **B.Tech in Computer Science Engineering** and buildin
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,java" alt="Python, JavaScript, TypeScript, Java" />
+<img src="assets/tech-stack.svg" alt="Tech stack: Python, JavaScript, TypeScript, Java, React, Next.js, HTML5, CSS, Node.js, Express, MySQL, MongoDB, Git, Google Cloud, Pandas, NumPy, Matplotlib" />
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="React, Next.js, HTML5, CSS3" />
-
-**Backend and databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Node.js, Express, MySQL, MongoDB" />
-
-**Data and tools**
-
-<img src="https://skillicons.dev/icons?i=git,gcp" alt="Git, Google Cloud" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&amp;logo=matplotlib&amp;logoColor=white" alt="Matplotlib" />
+</div>
 
 ---
 

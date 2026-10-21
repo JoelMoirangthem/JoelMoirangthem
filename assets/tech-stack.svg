@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 846 396" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="396" viewBox="0 0 846 396" role="img" aria-labelledby="title">
 <title id="title">Tech stack: Python, JavaScript, TypeScript, Java, React, Next.js, HTML5, CSS, Node.js, Express, MySQL, MongoDB, Git, Google Cloud, Pandas, NumPy, Matplotlib</title>
 <style>.cell { --glow: var(--c); }
 .card { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; }

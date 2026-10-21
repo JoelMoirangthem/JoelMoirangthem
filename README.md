@@ -134,7 +134,6 @@ I am currently pursuing a **B.Tech in Computer Science Engineering** and buildin
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ---

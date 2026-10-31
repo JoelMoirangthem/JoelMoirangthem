@@ -121,11 +121,11 @@ I am currently pursuing a **B.Tech in Computer Science Engineering** and buildin
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/JoelMoirangthem/Library-Management/pull/8) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
-2. 💪 Opened PR [#8](https://github.com/JoelMoirangthem/Library-Management/pull/8) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
-3. 🎉 Merged PR [#7](https://github.com/JoelMoirangthem/Library-Management/pull/7) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
-4. 💪 Opened PR [#7](https://github.com/JoelMoirangthem/Library-Management/pull/7) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
-5. 🎉 Merged PR [#6](https://github.com/JoelMoirangthem/Library-Management/pull/6) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
+1. 💪 Opened PR [#10](https://github.com/JoelMoirangthem/Library-Management/pull/10) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
+2. 🎉 Merged PR [#9](https://github.com/JoelMoirangthem/Library-Management/pull/9) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
+3. 💪 Opened PR [#9](https://github.com/JoelMoirangthem/Library-Management/pull/9) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
+4. 🎉 Merged PR [#8](https://github.com/JoelMoirangthem/Library-Management/pull/8) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
+5. 💪 Opened PR [#8](https://github.com/JoelMoirangthem/Library-Management/pull/8) in [JoelMoirangthem/Library-Management](https://github.com/JoelMoirangthem/Library-Management)
 <!--END_SECTION:activity-->
 
 ---

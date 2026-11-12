@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=3" width="100%" alt="Hi, I'm Joel Moirangthem. I am a full-stack developer, AI agent builder, backend engineer and problem solver. Open to SDE roles, Lucknow, India." />
+  <img src="./assets/hero.svg?v=4" width="100%" alt="Hi, I'm Joel Moirangthem: full-stack and AI developer in Lucknow, India. SDE at Healtine, 219 LeetCode problems solved, 35 public repositories." />
 </p>
 
 <p align="center">
@@ -10,9 +10,11 @@
   <a href="mailto:joelofficialcoding@gmail.com">Email</a>
 </p>
 
-<a href="https://joelmoirangthem.github.io/JoelMoirangthem-Portfolio/#works"><img src="./assets/doors.svg?v=3" width="100%" alt="Magic happens behind the doors: Full-Stack, AI Agents, Backend and DSA, one door per skill." /></a>
+<img src="./assets/about.svg?v=4" width="100%" alt="Ideas shipped: full-stack web, AI agents with human approval, backend and APIs. Right now: SDE at Healtine.com, B.Tech CSE at Sitare University, HackJNU 4.0 finalist." />
 
-### Behind the doors
+<img src="./assets/stack.svg?v=4" width="100%" alt="My stack: Python, TypeScript, Java, React, Next.js, Node.js, PostgreSQL, LangGraph, Docker, MongoDB and Git." />
+
+### Things I've built
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
@@ -22,9 +24,7 @@
 | [**PrepAI**](https://freeaiinterview.onrender.com/) | Voice mock interviews with live coding | React, Express |
 | [**WhatsApp Agent**](https://github.com/JoelMoirangthem/-whatsapp-agent) | AI agent that asks before it sends | Python, MCP |
 
-<img src="./assets/story.svg?v=3" width="100%" alt="My story: SDE at Healtine.com (2026 to now), SDE Intern at DevOpsGenie AI (Jun to Aug 2026), building in public since 2024, B.Tech Computer Science at Sitare University until May 2027." />
-
-<img src="./assets/card.svg?v=3" width="100%" alt="Profile card: Moirangthem Joel Singh, full-stack and AI developer. 219 LeetCode problems solved (94 easy, 107 medium, 18 hard), 35 public repositories, GeeksforGeeks institute rank 29." />
+<img src="./assets/dashboard.svg?v=4" width="100%" alt="Builder credentials: 219 LeetCode problems solved (94 easy, 107 medium, 18 hard), 35 public repositories, GeeksforGeeks institute rank 29. Now shipping Healtine.com as its sole developer." />
 
 ### Recent activity
 
@@ -39,7 +39,17 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelMoirangthem/JoelMoirangthem/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelMoirangthem/JoelMoirangthem/output/snake-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/JoelMoirangthem/JoelMoirangthem/output/snake-light.svg" alt="Contribution snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/JoelMoirangthem/JoelMoirangthem/output/snake-dark.svg" alt="Contribution snake" />
 </picture>
 
-<a href="mailto:joelofficialcoding@gmail.com"><img src="./assets/footer.svg?v=3" width="100%" alt="Need something built? Let's make it happen. Email joelofficialcoding@gmail.com." /></a>
+<a href="mailto:joelofficialcoding@gmail.com"><img src="./assets/connect.svg?v=4" width="100%" alt="Let's connect: LinkedIn, portfolio, LeetCode and email joelofficialcoding@gmail.com." /></a>
+
+<p align="center">
+  <a href="https://joelmoirangthem.github.io/JoelMoirangthem-Portfolio/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/joel-moirangthem-494119315/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/JoelMoirangthem/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/joelofficial123">GeeksforGeeks</a> &nbsp;·&nbsp;
+  <a href="mailto:joelofficialcoding@gmail.com">Email</a>
+</p>
+
+<p align="center"><sub>Build. Ship. Repeat.</sub></p>
